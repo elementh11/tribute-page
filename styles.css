@@ -1,0 +1,53 @@
+#image {
+    display: block; 
+    height: auto;
+    margin: auto;
+    max-width: 100%;
+    border-radius:20px;
+    box-shadow: 10px 10px 5px #beb6ab;
+}
+
+#main {
+    text-align:center;
+    margin:30px auto;
+    background:#beb6ab;
+    border-radius:20px;
+    font-family: "Verdana", Times, serif;
+}
+
+ul {
+    text-align: left;
+}
+
+li{
+    margin: 20px;
+}
+
+#quote {
+    font-style: italic;
+}
+
+#img-div {
+    background:white;
+    margin: 10px;
+    border-radius:10px;
+}
+
+#img-caption{
+    margin:15px 50px 15px 50px;
+}
+
+img {
+    padding:15px;
+}
+
+#headline {
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
+
+#img-source {
+    font-size: 14px;
+    font-style: italic;
+}
